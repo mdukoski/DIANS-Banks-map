@@ -1,0 +1,1 @@
+osmfilter macedonia.osm --keep="amenity=bank" | osmconvert - --all-to-nodes --csv="name @id @lon @lat addr:street" --csv-headline --csv-separator="," -o="data_bank.csv"
