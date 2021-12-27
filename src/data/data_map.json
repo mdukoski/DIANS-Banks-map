@@ -1,0 +1,1269 @@
+[
+  {
+    "name": "НБРМ",
+    "id": 371129575,
+    "longitude": 21.4428736,
+    "latitude": 41.9936657,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Banka",
+    "id": 373135407,
+    "longitude": 22.011702,
+    "latitude": 41.4339027,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska bank",
+    "id": 410853055,
+    "longitude": 21.2483872,
+    "latitude": 41.368043,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna banka",
+    "id": 411271292,
+    "longitude": 21.2195044,
+    "latitude": 41.5075945,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 416030019,
+    "longitude": 21.4552843,
+    "latitude": 41.9881468,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 416030021,
+    "longitude": 21.45507,
+    "latitude": 41.9881141,
+    "addr_street": "Булевар Јане Сандански"
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 459670746,
+    "longitude": 21.4332758,
+    "latitude": 41.9957098,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 462175889,
+    "longitude": 22.6386429,
+    "latitude": 41.4390415,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 462175890,
+    "longitude": 22.6407801,
+    "latitude": 41.4380957,
+    "addr_street": ""
+  },
+  {
+    "name": "Uni Banka AD",
+    "id": 470029611,
+    "longitude": 22.33663,
+    "latitude": 42.2059393,
+    "addr_street": ""
+  },
+  {
+    "name": "Stater",
+    "id": 470029615,
+    "longitude": 22.3364377,
+    "latitude": 42.206231,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Banka AD",
+    "id": 470029616,
+    "longitude": 22.336761,
+    "latitude": 42.2064607,
+    "addr_street": ""
+  },
+  {
+    "name": "Eurostandard Bank",
+    "id": 478040987,
+    "longitude": 22.0108152,
+    "latitude": 41.4375244,
+    "addr_street": ""
+  },
+  {
+    "name": "Invest Banka",
+    "id": 478040994,
+    "longitude": 22.0105986,
+    "latitude": 41.4373311,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna Banka",
+    "id": 478041066,
+    "longitude": 22.0116542,
+    "latitude": 41.4334167,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 497549485,
+    "longitude": 22.85733,
+    "latitude": 41.70528,
+    "addr_street": ""
+  },
+  {
+    "name": "Инвест Банка",
+    "id": 497549490,
+    "longitude": 22.8568041,
+    "latitude": 41.706472,
+    "addr_street": ""
+  },
+  {
+    "name": "Уни Банка",
+    "id": 497549496,
+    "longitude": 22.85515,
+    "latitude": 41.70578,
+    "addr_street": ""
+  },
+  {
+    "name": "Тутунска Банка",
+    "id": 547985718,
+    "longitude": 21.4428016,
+    "latitude": 41.9860412,
+    "addr_street": "3та Македонска Бригада бр.1"
+  },
+  {
+    "name": "NLB банка",
+    "id": 570688738,
+    "longitude": 20.6762264,
+    "latitude": 41.1780334,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 570689995,
+    "longitude": 20.6758536,
+    "latitude": 41.1778941,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе банка",
+    "id": 572376794,
+    "longitude": 20.6749801,
+    "latitude": 41.1776175,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 976910876,
+    "longitude": 20.9797522,
+    "latitude": 42.0060454,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK банка",
+    "id": 1035485797,
+    "longitude": 20.6759569,
+    "latitude": 41.18081,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Banka",
+    "id": 1272926130,
+    "longitude": 22.5050803,
+    "latitude": 41.8824729,
+    "addr_street": ""
+  },
+  {
+    "name": "Тутунска Банка Карпош 4",
+    "id": 1307183572,
+    "longitude": 21.3833142,
+    "latitude": 42.005028,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska banka",
+    "id": 1475404508,
+    "longitude": 21.3682515,
+    "latitude": 42.0073792,
+    "addr_street": ""
+  },
+  {
+    "name": "Тутунска банка",
+    "id": 1475404523,
+    "longitude": 21.3681939,
+    "latitude": 42.0063452,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna banka",
+    "id": 1475404526,
+    "longitude": 21.3683899,
+    "latitude": 42.0075172,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna banka",
+    "id": 1475404533,
+    "longitude": 21.3650349,
+    "latitude": 42.0069351,
+    "addr_street": ""
+  },
+  {
+    "name": "НЛБ Тутунска Банка",
+    "id": 1615760049,
+    "longitude": 21.3970663,
+    "latitude": 42.0036469,
+    "addr_street": ""
+  },
+  {
+    "name": "Зират Банка",
+    "id": 1618605216,
+    "longitude": 21.4244409,
+    "latitude": 41.9916695,
+    "addr_street": "Јордан Мијалков"
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 1791486077,
+    "longitude": 22.6383922,
+    "latitude": 41.4384887,
+    "addr_street": ""
+  },
+  {
+    "name": "Централен Регистер на РМ",
+    "id": 1851476148,
+    "longitude": 21.4425119,
+    "latitude": 41.9941727,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 1860283429,
+    "longitude": 21.4641508,
+    "latitude": 42.0029983,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 2051142599,
+    "longitude": 22.0914487,
+    "latitude": 41.4869352,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка АД Скопје",
+    "id": 2077741867,
+    "longitude": 22.8831147,
+    "latitude": 41.7594617,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 2276499906,
+    "longitude": 21.4100251,
+    "latitude": 41.9947725,
+    "addr_street": ""
+  },
+  {
+    "name": "Silk Road Bank",
+    "id": 2320912377,
+    "longitude": 22.4119298,
+    "latitude": 41.9177726,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 2320912435,
+    "longitude": 22.4112056,
+    "latitude": 41.9172378,
+    "addr_street": ""
+  },
+  {
+    "name": "Авангард",
+    "id": 2320912442,
+    "longitude": 22.4105645,
+    "latitude": 41.9172318,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 2320912446,
+    "longitude": 22.4104896,
+    "latitude": 41.9184452,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 2335276894,
+    "longitude": 21.357664,
+    "latitude": 42.0064278,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 2335276905,
+    "longitude": 21.3596919,
+    "latitude": 42.0065755,
+    "addr_street": "Мице Козар"
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 2335304828,
+    "longitude": 21.4400132,
+    "latitude": 41.9818419,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 2335304834,
+    "longitude": 21.4452794,
+    "latitude": 42.0136832,
+    "addr_street": "Булевар Цветан Димов"
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 2365723919,
+    "longitude": 21.4998637,
+    "latitude": 41.9967666,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 2503292836,
+    "longitude": 20.8013975,
+    "latitude": 41.1173318,
+    "addr_street": ""
+  },
+  {
+    "name": "Прокредит Банка",
+    "id": 2884502164,
+    "longitude": 21.4681788,
+    "latitude": 41.9847822,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB Тутунска Банка",
+    "id": 2886274890,
+    "longitude": 21.4390666,
+    "latitude": 41.9846465,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna Bank",
+    "id": 2891537538,
+    "longitude": 22.589205,
+    "latitude": 42.0219877,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Bank",
+    "id": 2891537548,
+    "longitude": 22.59005,
+    "latitude": 42.0221401,
+    "addr_street": ""
+  },
+  {
+    "name": "Bank",
+    "id": 3002669249,
+    "longitude": 20.8011697,
+    "latitude": 41.1170154,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 3021908912,
+    "longitude": 21.3863849,
+    "latitude": 42.0038557,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 3026549094,
+    "longitude": 21.4011278,
+    "latitude": 42.0028422,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB Tutunska banka",
+    "id": 3076974771,
+    "longitude": 20.8018224,
+    "latitude": 41.1133624,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Banka",
+    "id": 3101725381,
+    "longitude": 21.4423152,
+    "latitude": 41.9940162,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB Tutunska banka",
+    "id": 3187745226,
+    "longitude": 22.461677,
+    "latitude": 41.637895,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK Banka",
+    "id": 3187751578,
+    "longitude": 22.463817,
+    "latitude": 41.635763,
+    "addr_street": ""
+  },
+  {
+    "name": "Uni banka",
+    "id": 3187753091,
+    "longitude": 22.462866,
+    "latitude": 41.637023,
+    "addr_street": ""
+  },
+  {
+    "name": "Komercijalna banka",
+    "id": 3187756278,
+    "longitude": 22.463082,
+    "latitude": 41.636894,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska banka",
+    "id": 3187758467,
+    "longitude": 22.462563,
+    "latitude": 41.637201,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 3341289787,
+    "longitude": 21.4299102,
+    "latitude": 41.9928192,
+    "addr_street": "Македонија"
+  },
+  {
+    "name": "Комерцијална Банка - Експозитура Делчево",
+    "id": 3695260086,
+    "longitude": 22.7771603,
+    "latitude": 41.9672064,
+    "addr_street": "бул. Македонија"
+  },
+  {
+    "name": "Уни Банка - експозитура Делчево",
+    "id": 3695356160,
+    "longitude": 22.7749486,
+    "latitude": 41.9663156,
+    "addr_street": "бул. Методи Митевски Брицо"
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 3787600182,
+    "longitude": 21.4405306,
+    "latitude": 41.9809376,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 3826400403,
+    "longitude": 20.8057809,
+    "latitude": 41.1105418,
+    "addr_street": ""
+  },
+  {
+    "name": "Централна Кооперативна Банка",
+    "id": 3826400413,
+    "longitude": 20.8020711,
+    "latitude": 41.1128603,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 3826400437,
+    "longitude": 20.8023248,
+    "latitude": 41.1121132,
+    "addr_street": ""
+  },
+  {
+    "name": "ПроКредит Банка",
+    "id": 3828390366,
+    "longitude": 21.7833674,
+    "latitude": 41.7173009,
+    "addr_street": ""
+  },
+  {
+    "name": "НЛБ Тутунска Банка",
+    "id": 3828411465,
+    "longitude": 21.7840428,
+    "latitude": 41.7158192,
+    "addr_street": ""
+  },
+  {
+    "name": "ТТК Банка",
+    "id": 3828411471,
+    "longitude": 21.7825714,
+    "latitude": 41.7166562,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 3828411474,
+    "longitude": 21.7842681,
+    "latitude": 41.715824,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка Битола",
+    "id": 3828431960,
+    "longitude": 21.7817103,
+    "latitude": 41.7171518,
+    "addr_street": ""
+  },
+  {
+    "name": "Уни Банка",
+    "id": 3828431962,
+    "longitude": 21.7822105,
+    "latitude": 41.7177555,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 4012028345,
+    "longitude": 21.4205887,
+    "latitude": 41.998869,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 4012028346,
+    "longitude": 21.4214196,
+    "latitude": 41.9987428,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе Банка",
+    "id": 4059895435,
+    "longitude": 21.4177179,
+    "latitude": 41.9937486,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 4059895436,
+    "longitude": 21.4172424,
+    "latitude": 41.9938028,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 4144098451,
+    "longitude": 21.3909854,
+    "latitude": 42.0046642,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 4266034097,
+    "longitude": 21.4387451,
+    "latitude": 41.9846955,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK Banka",
+    "id": 4267660939,
+    "longitude": 20.9900228,
+    "latitude": 42.0050332,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе Банка",
+    "id": 4357165298,
+    "longitude": 22.1923301,
+    "latitude": 41.7372304,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка АД Скопје",
+    "id": 4357176689,
+    "longitude": 22.1928335,
+    "latitude": 41.7369891,
+    "addr_street": ""
+  },
+  {
+    "name": "Уни Банка - Кисела Вода",
+    "id": 4448978289,
+    "longitude": 21.4392671,
+    "latitude": 41.9833896,
+    "addr_street": ""
+  },
+  {
+    "name": "НЛБ Тутунска банка",
+    "id": 4459578970,
+    "longitude": 21.4345705,
+    "latitude": 41.9952945,
+    "addr_street": "Кеј 13 Ноември"
+  },
+  {
+    "name": "ПроКредит",
+    "id": 4502199191,
+    "longitude": 21.4296796,
+    "latitude": 41.9952676,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 4573205007,
+    "longitude": 21.3964504,
+    "latitude": 42.0034052,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 4573205016,
+    "longitude": 21.3966968,
+    "latitude": 42.0033742,
+    "addr_street": ""
+  },
+  {
+    "name": "Прокредит ванка",
+    "id": 4593947189,
+    "longitude": 21.3931155,
+    "latitude": 42.0072958,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 4594432367,
+    "longitude": 21.4336687,
+    "latitude": 41.9955887,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 4734639333,
+    "longitude": 22.199302,
+    "latitude": 41.7373487,
+    "addr_street": "Генерал Михајло Апостолски"
+  },
+  {
+    "name": "Sparkasse",
+    "id": 4740732822,
+    "longitude": 21.3975443,
+    "latitude": 42.0024666,
+    "addr_street": ""
+  },
+  {
+    "name": "НЛБ Тутунска Банка",
+    "id": 5054709626,
+    "longitude": 21.5041694,
+    "latitude": 42.0035989,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK",
+    "id": 5131823434,
+    "longitude": 21.4276102,
+    "latitude": 41.9948876,
+    "addr_street": ""
+  },
+  {
+    "name": "УНИБанка",
+    "id": 5333318375,
+    "longitude": 21.4004646,
+    "latitude": 42.0029303,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK Bank",
+    "id": 5333318378,
+    "longitude": 21.4008798,
+    "latitude": 42.0028742,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 5731830652,
+    "longitude": 21.4326259,
+    "latitude": 41.9934567,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 5835784828,
+    "longitude": 20.8093098,
+    "latitude": 41.1122749,
+    "addr_street": ""
+  },
+  {
+    "name": "Silk Road",
+    "id": 5865408686,
+    "longitude": 21.5542845,
+    "latitude": 41.3446476,
+    "addr_street": ""
+  },
+  {
+    "name": "НЛБ Банка",
+    "id": 6054036209,
+    "longitude": 21.4276726,
+    "latitude": 41.9963482,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 6054037094,
+    "longitude": 21.4275923,
+    "latitude": 41.9937523,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 6054048502,
+    "longitude": 21.356997,
+    "latitude": 42.0067272,
+    "addr_street": ""
+  },
+  {
+    "name": "Silk road",
+    "id": 6054048715,
+    "longitude": 21.4225838,
+    "latitude": 41.9984708,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 6054048723,
+    "longitude": 21.4184814,
+    "latitude": 41.9993025,
+    "addr_street": ""
+  },
+  {
+    "name": "Halbank",
+    "id": 6054050096,
+    "longitude": 21.4189624,
+    "latitude": 41.9991977,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 6137491236,
+    "longitude": 21.4327865,
+    "latitude": 41.9876789,
+    "addr_street": ""
+  },
+  {
+    "name": "Western Union",
+    "id": 6275107313,
+    "longitude": 21.4391635,
+    "latitude": 41.999175,
+    "addr_street": "Булевар Гоце Делчев"
+  },
+  {
+    "name": "Halkbank",
+    "id": 6277304326,
+    "longitude": 21.4457121,
+    "latitude": 42.0142495,
+    "addr_street": "Булевар Христијан Тодоровски Карпош"
+  },
+  {
+    "name": "Halkbank",
+    "id": 6279225885,
+    "longitude": 21.3590935,
+    "latitude": 42.0065882,
+    "addr_street": "Булевар Ѓорче Петров"
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 6281492651,
+    "longitude": 21.4401439,
+    "latitude": 42.0022117,
+    "addr_street": "Булевар Крсте Мисирков"
+  },
+  {
+    "name": "NLB Banka",
+    "id": 6281672845,
+    "longitude": 21.3318349,
+    "latitude": 42.0037315,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 6281993277,
+    "longitude": 21.4426424,
+    "latitude": 42.0134893,
+    "addr_street": "Џон Кенеди"
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 6287292136,
+    "longitude": 21.4701282,
+    "latitude": 41.9837535,
+    "addr_street": "Булевар Јане Сандански"
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 6370467185,
+    "longitude": 21.3353607,
+    "latitude": 41.0304553,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 6638905113,
+    "longitude": 22.5046895,
+    "latitude": 41.8825854,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB Bank",
+    "id": 6658574185,
+    "longitude": 21.5548308,
+    "latitude": 41.3466488,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 6739277885,
+    "longitude": 21.5543818,
+    "latitude": 41.3467996,
+    "addr_street": ""
+  },
+  {
+    "name": "Халк Банка",
+    "id": 6781168991,
+    "longitude": 21.3361808,
+    "latitude": 41.0307121,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB",
+    "id": 6812641691,
+    "longitude": 21.4260008,
+    "latitude": 41.9995612,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB",
+    "id": 6814246720,
+    "longitude": 21.4373437,
+    "latitude": 41.9994143,
+    "addr_street": ""
+  },
+  {
+    "name": "Halk",
+    "id": 6814246721,
+    "longitude": 21.4374802,
+    "latitude": 41.9994185,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB",
+    "id": 6815559785,
+    "longitude": 21.4175894,
+    "latitude": 41.9995003,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 6815931290,
+    "longitude": 21.4330782,
+    "latitude": 41.9951941,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB",
+    "id": 6821158391,
+    "longitude": 21.4254378,
+    "latitude": 41.992781,
+    "addr_street": ""
+  },
+  {
+    "name": "Komerz",
+    "id": 6821158785,
+    "longitude": 21.4310477,
+    "latitude": 41.9940018,
+    "addr_street": ""
+  },
+  {
+    "name": "Силк Роуд Банка",
+    "id": 6831648813,
+    "longitude": 20.8010875,
+    "latitude": 41.1146636,
+    "addr_street": ""
+  },
+  {
+    "name": "Stolanska",
+    "id": 6831648887,
+    "longitude": 20.7981056,
+    "latitude": 41.1125729,
+    "addr_street": ""
+  },
+  {
+    "name": "УНИ Банка",
+    "id": 6833101188,
+    "longitude": 20.8009712,
+    "latitude": 41.1142269,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska",
+    "id": 6833103499,
+    "longitude": 20.8035054,
+    "latitude": 41.1165093,
+    "addr_street": ""
+  },
+  {
+    "name": "Halk",
+    "id": 6833103500,
+    "longitude": 20.8037474,
+    "latitude": 41.1164415,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 6837039891,
+    "longitude": 20.8013015,
+    "latitude": 41.1167204,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 6837039895,
+    "longitude": 20.8153988,
+    "latitude": 41.1173478,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 6875158385,
+    "longitude": 21.3364785,
+    "latitude": 41.0271027,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 6875158485,
+    "longitude": 21.3363869,
+    "latitude": 41.0272745,
+    "addr_street": ""
+  },
+  {
+    "name": "Hallbank",
+    "id": 6913357685,
+    "longitude": 21.4294687,
+    "latitude": 42.024698,
+    "addr_street": ""
+  },
+  {
+    "name": "Уни Банка",
+    "id": 7133065641,
+    "longitude": 21.3575237,
+    "latitude": 42.006762,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 7136180068,
+    "longitude": 21.4699551,
+    "latitude": 41.9838482,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 7136914206,
+    "longitude": 21.4616104,
+    "latitude": 42.0026088,
+    "addr_street": ""
+  },
+  {
+    "name": "Силк Роуд Банка",
+    "id": 7136914207,
+    "longitude": 21.4616919,
+    "latitude": 42.0026806,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 7139248055,
+    "longitude": 20.6774786,
+    "latitude": 41.1777972,
+    "addr_street": ""
+  },
+  {
+    "name": "Охридска Банка",
+    "id": 7139345603,
+    "longitude": 21.0134259,
+    "latitude": 41.0911152,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 7139350143,
+    "longitude": 20.8041418,
+    "latitude": 41.1124099,
+    "addr_street": ""
+  },
+  {
+    "name": "ТТК Банка",
+    "id": 7139404642,
+    "longitude": 21.3357572,
+    "latitude": 41.0307259,
+    "addr_street": ""
+  },
+  {
+    "name": "Шпаркасе",
+    "id": 7156705271,
+    "longitude": 22.6398996,
+    "latitude": 41.4382149,
+    "addr_street": ""
+  },
+  {
+    "name": "Silk Road",
+    "id": 7876582715,
+    "longitude": 21.4390846,
+    "latitude": 41.9839565,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска банка АД Скопје",
+    "id": 7904816929,
+    "longitude": 21.9418579,
+    "latitude": 41.8634725,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 8537993722,
+    "longitude": 22.1933178,
+    "latitude": 41.7380692,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK",
+    "id": 9161032921,
+    "longitude": 20.8014077,
+    "latitude": 41.1155785,
+    "addr_street": ""
+  },
+  {
+    "name": "Uni",
+    "id": 9161043717,
+    "longitude": 20.801107,
+    "latitude": 41.1135356,
+    "addr_street": ""
+  },
+  {
+    "name": "Komerz",
+    "id": 9200216063,
+    "longitude": 21.4317942,
+    "latitude": 41.9903066,
+    "addr_street": ""
+  },
+  {
+    "name": "Iute credit",
+    "id": 9200216159,
+    "longitude": 21.4250567,
+    "latitude": 41.9984702,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 9200216160,
+    "longitude": 21.4293563,
+    "latitude": 41.9978983,
+    "addr_street": ""
+  },
+  {
+    "name": "Sto",
+    "id": 9200216441,
+    "longitude": 21.4316452,
+    "latitude": 41.9903752,
+    "addr_street": ""
+  },
+  {
+    "name": "Sparkasse",
+    "id": 9200216722,
+    "longitude": 21.4352972,
+    "latitude": 41.9899741,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 9233459229,
+    "longitude": 21.502468,
+    "latitude": 42.0064539,
+    "addr_street": ""
+  },
+  {
+    "name": "NBL Банка",
+    "id": 1000000032653114,
+    "longitude": 21.425328,
+    "latitude": 41.9926527,
+    "addr_street": "Булевар Мајка Тереза"
+  },
+  {
+    "name": "НЛБ Тутунска Банка",
+    "id": 1000000037997011,
+    "longitude": 21.4607214,
+    "latitude": 42.0014888,
+    "addr_street": "Јани Лукровски"
+  },
+  {
+    "name": "Стопанска Банка АД Битола",
+    "id": 1000000153576694,
+    "longitude": 21.3364009,
+    "latitude": 41.0301169,
+    "addr_street": "Добривое Радосављевиќ"
+  },
+  {
+    "name": "Комерцијална банка",
+    "id": 1000000175160538,
+    "longitude": 21.46078,
+    "latitude": 42.0027256,
+    "addr_street": ""
+  },
+  {
+    "name": "ТТК Банка",
+    "id": 1000000175160543,
+    "longitude": 21.4602777,
+    "latitude": 42.0028867,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 1000000175277490,
+    "longitude": 21.4299311,
+    "latitude": 41.9967392,
+    "addr_street": "Орце Николов"
+  },
+  {
+    "name": "Комерцијална банка",
+    "id": 1000000175277501,
+    "longitude": 21.4303788,
+    "latitude": 41.996512,
+    "addr_street": "Орце Николов"
+  },
+  {
+    "name": "Еуростандард Банка",
+    "id": 1000000175280566,
+    "longitude": 21.4297982,
+    "latitude": 41.9963512,
+    "addr_street": "27 Март"
+  },
+  {
+    "name": "Поштенска Банка",
+    "id": 1000000175280569,
+    "longitude": 21.4295154,
+    "latitude": 41.9967642,
+    "addr_street": "27 Март"
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 1000000176168735,
+    "longitude": 21.4348872,
+    "latitude": 41.9970741,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка АД - Скопје",
+    "id": 1000000209810814,
+    "longitude": 21.2037932,
+    "latitude": 41.2194857,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка",
+    "id": 1000000220091431,
+    "longitude": 21.5496025,
+    "latitude": 41.3454369,
+    "addr_street": ""
+  },
+  {
+    "name": "Stopanska Banka",
+    "id": 1000000226906517,
+    "longitude": 20.961571,
+    "latitude": 41.512502,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 1000000305533449,
+    "longitude": 21.437466,
+    "latitude": 41.999585,
+    "addr_street": ""
+  },
+  {
+    "name": "Комерцијална Банка",
+    "id": 1000000333863376,
+    "longitude": 21.5518665,
+    "latitude": 41.3462045,
+    "addr_street": "Мице Козароски-Јандре"
+  },
+  {
+    "name": "Стопанска банка АД-Скопје - Филијала Делчево",
+    "id": 1000000365658477,
+    "longitude": 22.7756924,
+    "latitude": 41.9661766,
+    "addr_street": "Орце Николов"
+  },
+  {
+    "name": "Стопанска банка",
+    "id": 1000000379878803,
+    "longitude": 21.4396214,
+    "latitude": 42.0012336,
+    "addr_street": ""
+  },
+  {
+    "name": "Hallkank",
+    "id": 1000000389777790,
+    "longitude": 21.581539,
+    "latitude": 41.9914031,
+    "addr_street": ""
+  },
+  {
+    "name": "Стопанска Банка АД Скопје",
+    "id": 1000000444745777,
+    "longitude": 22.1951348,
+    "latitude": 41.7380813,
+    "addr_street": ""
+  },
+  {
+    "name": "TTK Banka",
+    "id": 1000000562188627,
+    "longitude": 20.5263618,
+    "latitude": 41.5244677,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB Banka",
+    "id": 1000000670303839,
+    "longitude": 21.5777811,
+    "latitude": 41.9946939,
+    "addr_street": ""
+  },
+  {
+    "name": "Halkbank",
+    "id": 1000000670610274,
+    "longitude": 21.3260135,
+    "latitude": 41.9974656,
+    "addr_street": ""
+  },
+  {
+    "name": "Central Cooperative Bank",
+    "id": 1000000763181583,
+    "longitude": 22.1777339,
+    "latitude": 42.0009704,
+    "addr_street": ""
+  },
+  {
+    "name": "NLB",
+    "id": 1000000763181584,
+    "longitude": 22.1782065,
+    "latitude": 41.9987904,
+    "addr_street": ""
+  },
+  {
+    "name": "Capital Bank",
+    "id": 2000000005360059,
+    "longitude": 21.4296501,
+    "latitude": 41.9961112,
+    "addr_street": ""
+  }
+]
