@@ -188,7 +188,7 @@ const Header = () => {
           <div className={classes["form-group"]}>
             <input
               type="text"
-              placeholder="Stopanska Banka...etc"
+              placeholder="Стопанска Банка...etc"
               id="search"
               ref={searchInputRef}
             />

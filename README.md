@@ -19,3 +19,5 @@ You will also see any lint errors in the console.
 191557 Иван Стошиќ
 191562 Кирил Петрески
 191578 Ѓоко Мојсовски
+### Web URL
+https://banks-app-react.web.app
