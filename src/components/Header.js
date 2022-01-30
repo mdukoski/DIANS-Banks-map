@@ -23,19 +23,32 @@ const Header = () => {
     setLongitude(position.coords.longitude);
   });
 
+  const getFiveNearest = (range, fuels) => {          // Ova funkcija gi pronaogja najbliskite pet od prethodno                                                                              // Ova funkcija gi pronaogja najbliskite pet od prethodno
+    range.sort(function (a, b) {return a - b});      // povikanata funkcija arePointsNear() i so toa se pronaogjat                                                                      // povikanata funkcija arePointsNear() i so toa se pronaogjat
+    for (let i = 0; i < 5; i++) {                   // najbliskite pet benzinski                                                                // najbliskite pet benzinski
+        for (let j = 0; j < range.length; j++) {
+            if (range[i] === fuels[j].rangeFuel) {
+                let fuelsParts = fuels[j].station.split('/');
+            }
+        }
+    }
+}
+
+
   const arePointsNear = (
     myLatitude,
     myLongitude,
     bankLatitude,
     bankLongitude,
     km
-  ) => {
-    let ky = 40000 / 360;
-    let kx = Math.cos((Math.PI * myLatitude) / 180.0) * ky;
-    let dx = Math.abs(myLongitude - bankLongitude) * kx;
-    let dy = Math.abs(myLatitude - bankLatitude) * ky;
+  ) => {                                                     //Ova funkcija gi pronaogja benzinskite vo opseg od odredeni
+    let ky = 40000 / 360;                                    // kilometri spored momentalna lokacija na korisnikot.
+    let kx = Math.cos((Math.PI * myLatitude) / 180.0) * ky;  // Promenlivite myLatitude/myLongitude se za lokacijata na
+    let dx = Math.abs(myLongitude - bankLongitude) * kx;  // Promenlivite myLatitude/myLongitude se za lokacijata na
+    let dy = Math.abs(myLatitude - bankLatitude) * ky; // benzinskata za koja se proveruva dali e vo toj opseg.
     return Math.sqrt(dx * dx + dy * dy) <= km;
   };
+
 
   const allBanks = (
     <MapContainer
